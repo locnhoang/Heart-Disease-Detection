@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-This project was conducted as part of an independent study under the guidance of a faculty advisor during the Spring 2025 term at the University of Connecticut.
+This project was conducted as part of an independent study under the guidance of my faculty advisor during the Spring 2025 term at the University of Connecticut.
 
 The goal of this project is to explore clinical features related to heart disease and develop a predictive model using logistic regression. Through exploratory data analysis (EDA), visualizations, and model evaluation, the project identifies key patterns, performance disparities across subgroups, and provides recommendations for feature engineering and modeling.
 
